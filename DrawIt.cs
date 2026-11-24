@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
 
-namespace WPFVisuals
+namespace WPF_Graphics_Visuals
 {
 	// Host container for DrawingVisual.
 	class DrawIt : FrameworkElement
