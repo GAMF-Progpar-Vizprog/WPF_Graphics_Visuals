@@ -31,7 +31,7 @@ namespace WPFVisuals
 							new Rect(new Point(0 + x, 0), new Size(40, 40)));
 				}
 				// Négyzet objektum hozzáadása a drawIt gyermekeihez.
-				_=Children.Add(Square);
+				Children.Add(Square);
 				x += 60;
 			}
 		}
